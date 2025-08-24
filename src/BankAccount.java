@@ -15,4 +15,8 @@ public class BankAccount {
        public void checkBalance() {
        
     }
+
+	public void calculateInterest() {
+		
+	}
 }
